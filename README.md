@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SquilliamFancyboy
+- 👋 Hi, I’m Eduard Iskhakov
 - 👀 I’m interested in Product Analytics and BI 
 - 🌱 I’m currently on Product Analytics 
 

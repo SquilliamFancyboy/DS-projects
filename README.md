@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SquilliamFancyboy
-- 👀 I’m interested in Anime
+- 👀 I’m interested in Product Analytics, BI and Machine Learning
 - 🌱 I’m currently Product Analytics 
 
 <!---

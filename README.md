@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SquilliamFancyboy
-- 👀 I’m interested in Product Analytics, BI and Machine Learning
+- 👀 I’m interested in Product Analytics and BI 
 - 🌱 I’m currently Product Analytics 
 
 <!---

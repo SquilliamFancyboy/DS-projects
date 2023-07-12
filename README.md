@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SquilliamFancyboy
 - 👀 I’m interested in Product Analytics and BI 
-- 🌱 I’m currently Product Analytics 
+- 🌱 I’m currently on Product Analytics 
 
 <!---
 SquilliamFancyboy/SquilliamFancyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eduard Iskhakov
-- 👀 I’m interested in Product Analytics and BI 
-- 🌱 I’m currently on Product Analytics 
+- 👀 I’m interested in Product Analytics and Data Science
 
 <!---
 SquilliamFancyboy/SquilliamFancyboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
